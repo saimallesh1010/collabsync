@@ -40,11 +40,12 @@
 ---
 
 
-
+### to clone
 git clone https://github.com/saimallesh1010/collabsync.git
+
 cd collabsync
 
-
+## To run
 # In one terminal
 cd backend
 npm run dev
@@ -54,7 +55,7 @@ cd frontend
 npm run dev
 
 
-Future Enhancements
+### Future  Enhancements
 📊 User-specific file history and summary storage
 
 🧠 Integration with Google Calendar or Outlook
