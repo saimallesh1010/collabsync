@@ -1,0 +1,23 @@
+- Alice discussed timelines
+- John will handle backend API
+- Demo set for June 3
+Raw Meeting Points (Input):
+
+Discussed Q2 performance, sales dropped 8%
+
+Marketing team proposed a new social media campaign
+
+Engineering mentioned delay in feature rollout due to testing issues
+
+Agreed to prioritize bug fixes before next release
+
+Budget review postponed to next Monday
+
+HR reminded everyone about the upcoming team-building event
+
+
+
+PORT=5000
+MONGO_URI=mongodb+srv://saimalleshgoud:Mypersonalapp123@cluster0.zgk1zdj.mongodb.net/collabsync?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET=supersecurejwtkey2025collabsync!
+OPENAI_API_KEY=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

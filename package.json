@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.7"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mammoth": "^1.9.0",
+    "mongoose": "^8.15.1",
+    "multer": "^2.0.0",
+    "openai": "^4.103.0",
+    "pdf-parse": "^1.1.1",
+    "socket.io": "^4.8.1"
+  }
+}
