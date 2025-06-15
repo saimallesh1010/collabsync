@@ -1,67 +1,36 @@
-# collabsync
-# 🚀 CollabSync – Smart Collaboration & Meeting Assistant
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-**CollabSync** is a modern, full-stack SaaS platform designed to enhance collaboration by combining chat, file sharing, and AI-powered meeting summary generation. It empowers teams to upload documents and receive concise summaries using OpenAI’s API – ideal for productivity, note-taking, and knowledge capture.
+## Getting Started
 
----
+First, run the development server:
 
-## 🌟 Features
-
-- 🔐 Secure user authentication (Email & Google Sign-In)
-- 💬 Real-time chat interface (Socket.io-based)
-- 📎 File upload support (.pdf, .txt, .docx)
-- 🤖 AI-generated meeting summaries (OpenAI or Vertex AI)
-- 🧠 RAG pipeline to extract relevant knowledge from uploaded content
-- ☁️ Deployed with Docker, Netlify, and Render
-- 🔄 CI/CD with GitHub Actions
-
----
-
-## 🧰 Tech Stack
-
-### Frontend:
-- React + TypeScript
-- TailwindCSS
-- Axios
-
-### Backend:
-- Node.js + Express
-- MongoDB (with Mongoose)
-- JWT for authentication
-- Multer for file upload
-- OpenAI API integration
-
-### DevOps & Tools:
-- Docker
-- GitHub Actions
-- Netlify (Frontend)
-- Render (Backend)
-
----
-
-
-### to clone
-git clone https://github.com/saimallesh1010/collabsync.git
-
-cd collabsync
-
-## To run
-# In one terminal
-cd backend
+```bash
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-# In another terminal
-cd frontend
-npm run dev
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### Future  Enhancements
-📊 User-specific file history and summary storage
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-🧠 Integration with Google Calendar or Outlook
+## Learn More
 
-🔎 Semantic search over past summaries
+To learn more about Next.js, take a look at the following resources:
 
-🎥 Meeting video/audio summarization
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-🗂️ Team-level document collaboration
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
