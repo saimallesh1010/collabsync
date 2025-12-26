@@ -14,4 +14,25 @@ Teams often rely on scattered tools for communication, file sharing, and collabo
 - Scalable backend APIs for handling user and file operations
 - Cloud-ready architecture designed for deployment and growth
 
+## Tech Stack
+
+**Frontend**
+- Next.js
+- React
+- TypeScript
+
+**Backend**
+- Node.js
+- RESTful APIs
+- Authentication & Authorization
+
+**Database & Storage**
+- MongoDB
+- File storage for uploaded content
+
+**Cloud & DevOps**
+- Cloud deployment ready (Vercel / Render)
+- Environment-based configuration
+
+
 
