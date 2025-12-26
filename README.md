@@ -50,3 +50,12 @@ Teams often rely on scattered tools for communication, file sharing, and collabo
 - Implemented CI/CD pipelines to automate builds and deployments
 - Gained hands-on experience designing scalable, full-stack architectures
 
+## Future Improvements
+
+- Add granular role-based permissions for shared files and collaboration spaces
+- Enhance AI summarization with user feedback loops and configurable prompts
+- Introduce activity history and audit logs for collaboration events
+- Improve scalability with caching and background job processing
+- Expand real-time features to support notifications and presence indicators
+
+
