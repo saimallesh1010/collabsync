@@ -42,3 +42,11 @@ Teams often rely on scattered tools for communication, file sharing, and collabo
 - MongoDB
 - Secure file storage for uploads
 
+## Engineering Highlights
+
+- Designed and implemented real-time communication workflows using WebSockets
+- Integrated AI services into a production-style application using prompt-driven summarization
+- Built secure authentication flows with JWT and role-based access control
+- Implemented CI/CD pipelines to automate builds and deployments
+- Gained hands-on experience designing scalable, full-stack architectures
+
